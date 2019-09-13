@@ -1,0 +1,6 @@
+clientes = 3
+servidores = 2
+buffer = 2
+C0 = 4
+C1 = 5
+C2 = 6
